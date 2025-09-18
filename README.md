@@ -1,4 +1,8 @@
-Twitter Sentiment Analysis using Deep Learning
+# Twitter Sentiment Analysis using Deep Learning
+
+*Understanding human sentiment by analyzing the text of tweets*
+
+## Overview
 This project performs sentiment analysis on Twitter data using NLP preprocessing, TF-IDF vectorization, and a Keras deep learning model. It classifies tweets into sentiment categories (e.g., positive, negative, neutral, etc.) based on labeled training data.
 
 # 🔹 Project Workflow
